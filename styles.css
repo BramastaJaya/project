@@ -2,11 +2,13 @@ h1{
     color: red;
     background-color: blue;
     text-align: center;
+    
     font-weight: bolder;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
     padding: 3%;
     width: fit-content;
+    
 }
 .classes{
     padding: 70px 0;
